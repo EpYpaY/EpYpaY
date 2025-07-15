@@ -2,7 +2,7 @@
 <h1 style="color:#ffc710" align="center"><b>Hi , I'm Loex </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&color=ffc710&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome..&hearts;++;Cybersecurity+Engineer+Apprentice,;4th+year+at+engineering+school,;CTF+Newbie,;On+TryHackMe+and+HackTheBox"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hubot+Sans&color=ffc710&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome..&hearts;++;Cybersecurity+Engineer+Apprentice,;5th+year+at+engineering+school,;CTF+Newbie,;On+TryHackMe+and+HackTheBox"></a>
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
